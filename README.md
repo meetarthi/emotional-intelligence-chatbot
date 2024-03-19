@@ -1,4 +1,4 @@
-# emotional-intelligence-chatbot
+# Emotional-intelligence-chatbot
 
 **Overview**
 ------------------------
