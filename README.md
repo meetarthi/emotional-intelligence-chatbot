@@ -1,12 +1,15 @@
 # emotional-intelligence-chatbot
 
-#Overview#
-
+**Overview**
+------------------------
 Creating a chatbot with the capablility of detecting user sentiments and generating appropriate responses.
 
-Solution
+**Solution**
+------------------------
 Using ChainLit for the user interface and integrating the OpenAI Assistant for understanding emotion of the user based on their input and to respond accordingly.
-Implementation  
+
+**Implementation**
+-------------------------
 Setting up the user interface using chainlit
 Generating OpenAi key 
 Prompt for Assistant to Identify the user emotion and respond
