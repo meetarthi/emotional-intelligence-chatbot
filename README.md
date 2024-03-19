@@ -10,8 +10,8 @@ Using ChainLit for the user interface and integrating the OpenAI Assistant for u
 
 **Implementation**
 -------------------------
-Setting up the user interface using chainlit
-Generating OpenAi key 
-Prompt for Assistant to Identify the user emotion and respond
-Establishing connection between the assistant and UI using API calls
+1. Setting up the user interface using chainlit
+2. Generating OpenAi key 
+3. Prompt for Assistant to Identify the user emotion and respond
+4. Establishing connection between the assistant and UI using API calls
 
