@@ -6,8 +6,8 @@ RUN pip install "openai==1.3.5"
 RUN pip install "openapi==1.1.0"
 RUN pip install "chainlit==0.7.604"
 
-ENV ASSISTANT_ID=asst_NkiKj37mUnVyEboJwwAGiDwp
-ENV OPENAI_API_KEY=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
+ENV ASSISTANT_ID= YOUR_ASSISTANT_ID
+ENV OPENAI_API_KEY= YOUR_OPENAI_API_KEY
 
 COPY assistant.py .
 RUN mkdir .chainlit
