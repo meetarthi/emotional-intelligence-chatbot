@@ -1,6 +1,6 @@
 # emotional-intelligence-chatbot
 
-##Overview##
+#Overview#
 
 Creating a chatbot with the capablility of detecting user sentiments and generating appropriate responses.
 
